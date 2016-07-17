@@ -95,7 +95,7 @@ footer {
 }
 
 .jumbotron {
-  background-image: url("../img/martin-johnson-winner.png");
+  background-image: url("../img/Janet2.jpg");
   /*background-position: right;
 
   width: 100%;
@@ -113,6 +113,10 @@ footer {
 
 .nav {
   padding: 0;
+} 
+
+.navbar {
+  background-color: #1C6FB8;
 }
 
 .navbar-brand, .portfolio-nav > li {
